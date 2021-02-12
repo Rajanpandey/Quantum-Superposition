@@ -1,6 +1,6 @@
-# Quantum Computing
+# Quantum Superposition
 
-Qubit manipulation with Quantum Physics using Microsoft Quantum (Q# and QDK).
+Qubit superposition with Quantum Physics using Microsoft Quantum (Q# and QDK).
 
 # How to run
 
